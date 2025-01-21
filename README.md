@@ -10,3 +10,4 @@
         - test-split e k-fold cross validation também com o mínimo possível de iterações
         - escolhi uma máquina standart um pouco mais barata como servidor (Standard_D4s_v3 (4 core(s), 16GB RAM, 32GB storage, $0.19/hr))
     5. Rodei o modelo e copiei o JSON do endpoint pra dentro deste repositório GIT.
+    6. Dei uma revisada no JSON e censurei quaiquer informaçõe sensíveis
